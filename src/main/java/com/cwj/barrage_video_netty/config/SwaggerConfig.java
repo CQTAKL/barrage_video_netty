@@ -6,7 +6,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 /**
  * @author :infinite-war
  * @date : 2022/11/3 18:58
- * @desc :
+ * @desc : Swagger配置类
  */
 @Configuration
 @EnableSwagger2   //开启swagger2
